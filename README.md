@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sophomore @ SSNCE 2023-28 
+## Computer Science and Engineering
+- Engineering student with a passion for AI-driven solutions, software development, and mobile app design. 
+- Skilled in crafting user-centric applications, optimizing real-time systems, and implementing innovative technologies to solve complex problems.
+- Dedicated to leveraging technical expertise to create impactful and scalable solutions.
 
 <!--
 **vlk-2805/vlk-2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
