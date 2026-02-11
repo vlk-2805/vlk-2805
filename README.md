@@ -37,12 +37,12 @@ designing <b>scalable software systems</b>, and crafting <b>user-centric mobile 
 
 <h3>Frameworks & Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,pandas,flutter,react,nodejs,tensorflow,keras,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,flutter,react,nodejs,tensorflow,opencv" />
 </p>
 
 <h3>Databases & Cloud</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb,postgress" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb,postgresql" />
 </p>
 
 ---
