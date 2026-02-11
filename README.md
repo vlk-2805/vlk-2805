@@ -1,19 +1,115 @@
-## Sophomore @ SSNCE 2023-28 || Computer Science and Engineering
-- Engineering student with a passion for AI-driven solutions, software development, and mobile app design. 
-- Skilled in crafting user-centric applications, optimizing real-time systems, and implementing innovative technologies to solve complex problems.
-- Dedicated to leveraging technical expertise to create impactful and scalable solutions.
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Vishwajith</h1>
+<h3 align="center">🚀 Computer Science Engineering Student | AI & Full Stack Developer</h3>
 
-<!--
-**vlk-2805/vlk-2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Sophomore-SSNCE%202023--28-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Computer%20Science%20Engineering-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Mobile%20Apps%20%7C%20Systems-green?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ================= ABOUT ================= -->
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I am an engineering student passionate about building <b>AI-driven solutions</b>, 
+designing <b>scalable software systems</b>, and crafting <b>user-centric mobile applications</b>.
+</p>
+
+<ul>
+  <li>🧠 Exploring Machine Learning & Deep Learning</li>
+  <li>📱 Building cross-platform applications</li>
+  <li>⚡ Optimizing real-time systems</li>
+  <li>🚀 Focused on impactful and scalable tech solutions</li>
+</ul>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart,js" />
+</p>
+
+<h3>Frameworks & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,tensorflow,keras,opencv" />
+</p>
+
+<h3>Databases & Cloud</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,mongodb,aws" />
+</p>
+
+---
+
+<!-- ================= PROJECT INTERESTS ================= -->
+<h2>🔥 Areas of Interest</h2>
+
+<div style="display:flex; gap:15px; flex-wrap:wrap;">
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
+<h4>🤖 Artificial Intelligence</h4>
+<p>Deep learning, anomaly detection, predictive modeling, and real-time AI systems.</p>
+</div>
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
+<h4>📱 App Development</h4>
+<p>Building secure, responsive, and scalable cross-platform applications.</p>
+</div>
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:250px;">
+<h4>⚙️ Systems & Optimization</h4>
+<p>Performance tuning, distributed systems, and real-time architecture design.</p>
+</div>
+
+</div>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vlk-2805&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlk-2805&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= CURRENT FOCUS ================= -->
+<h2>🌱 Currently Working On</h2>
+
+<ul>
+  <li>📡 AI-based anomaly detection systems</li>
+  <li>🔋 Smart predictive consumption models</li>
+  <li>🎮 AI-assisted customizable game simulators</li>
+</ul>
+
+---
+
+<!-- ================= CONNECT ================= -->
+<h2>📫 Connect With Me</h2>
+
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <b>✨ "Engineering scalable intelligence for real-world impact." ✨</b>
+</p>
