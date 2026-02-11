@@ -84,18 +84,6 @@ designing <b>scalable software systems</b>, and crafting <b>user-centric mobile 
 
 ---
 
-<!-- ================= CURRENT FOCUS ================= -->
-<h2>🌱 Currently Working On</h2>
-
-<ul>
-  <li>📡 AI-based anomaly detection systems</li>
-  <li>🔋 Smart predictive consumption models</li>
-  <li>🎮 AI-assisted customizable game simulators</li>
-</ul>
-
----
-
-
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <b>✨ "Engineering scalable intelligence for real-world impact." ✨</b>
