@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Sophomore-SSNCE%202023--28-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Field-Computer%20Science%20Engineering-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Mobile%20Apps%20%7C%20Systems-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI/ML-green?style=for-the-badge" />
 </p>
 
 ---
@@ -32,17 +32,17 @@ designing <b>scalable software systems</b>, and crafting <b>user-centric mobile 
 
 <h3>Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,dart,js" />
 </p>
 
 <h3>Frameworks & Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,tensorflow,keras,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,pandas,flutter,react,nodejs,tensorflow,keras,opencv" />
 </p>
 
 <h3>Databases & Cloud</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb,postgress" />
 </p>
 
 ---
