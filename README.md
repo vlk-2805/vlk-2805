@@ -70,21 +70,7 @@ designing <b>scalable software systems</b>, and crafting <b>user-centric mobile 
 </div>
 
 ---
-
-<!-- ================= GITHUB STATS ================= -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlk-2805&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlk-2805&theme=tokyonight" />
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
+=== -->
 <p align="center">
   <b>✨ "Engineering scalable intelligence for real-world impact." ✨</b>
 </p>
