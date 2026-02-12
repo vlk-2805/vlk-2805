@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Computer Science Engineering Student | AI & Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sophomore-SSNCE%202023--28-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3rd Year-SSNCE%202023--28-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Field-Computer%20Science%20Engineering-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AI/ML-green?style=for-the-badge" />
 </p>
