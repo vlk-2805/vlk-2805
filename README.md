@@ -70,7 +70,7 @@ designing <b>scalable software systems</b>, and crafting <b>user-centric mobile 
 </div>
 
 ---
-=== -->
+
 <p align="center">
   <b>✨ "Engineering scalable intelligence for real-world impact." ✨</b>
 </p>
