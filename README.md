@@ -8,13 +8,24 @@
   <img src="https://img.shields.io/badge/Focus-AI/ML-green?style=for-the-badge" />
 </p>
 
+<p align="center">
+  🌐 <b>Explore my portfolio:</b>
+  <a href="https://vishwajithlk.me">vishwajithlk.me</a>
+</p>
+
+<p align="center">
+  <a href="https://vishwajithlk.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0D9668?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+  </a>
+</p>
+
 ---
 
 <!-- ================= ABOUT ================= -->
 <h2>👨‍💻 About Me</h2>
 
 <p>
-I am an engineering student passionate about building <b>AI-driven solutions</b>, 
+I am an engineering student passionate about building <b>AI-driven solutions</b>,
 designing <b>scalable software systems</b>, and crafting <b>user-centric mobile applications</b>.
 </p>
 
@@ -23,6 +34,7 @@ designing <b>scalable software systems</b>, and crafting <b>user-centric mobile 
   <li>📱 Building cross-platform applications</li>
   <li>⚡ Optimizing real-time systems</li>
   <li>🚀 Focused on impactful and scalable tech solutions</li>
+  <li>🌐 Explore my projects, experience, and technical work at <a href="https://vishwajithlk.me">vishwajithlk.me</a></li>
 </ul>
 
 ---
@@ -32,17 +44,17 @@ designing <b>scalable software systems</b>, and crafting <b>user-centric mobile 
 
 <h3>Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,dart,js" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,dart,js" alt="Java, Python, C, Dart, JavaScript" />
 </p>
 
 <h3>Frameworks & Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,flutter,react,nodejs,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,flutter,react,nodejs,tensorflow,opencv" alt="PyTorch, Flutter, React, Node.js, TensorFlow, OpenCV" />
 </p>
 
 <h3>Databases & Cloud</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,mongodb,postgresql" alt="Supabase, MySQL, MongoDB, PostgreSQL" />
 </p>
 
 ---
@@ -70,6 +82,19 @@ designing <b>scalable software systems</b>, and crafting <b>user-centric mobile 
 </div>
 
 ---
+
+<!-- ================= PORTFOLIO & CONTACT ================= -->
+<h2>🌐 Portfolio & Contact</h2>
+
+<p>
+Want to explore my projects, experience, and technical journey?
+</p>
+
+<p align="center">
+  <a href="https://vishwajithlk.me">
+    <img src="https://img.shields.io/badge/🌐_Personal_Portfolio-vishwajithlk.me-0D9668?style=for-the-badge" alt="Personal Portfolio" />
+  </a>
+</p>
 
 <p align="center">
   <b>✨ "Engineering scalable intelligence for real-world impact." ✨</b>
