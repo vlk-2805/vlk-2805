@@ -9,15 +9,11 @@
 </p>
 
 <p align="center">
-  🌐 <b>Explore my portfolio:</b>
+  🌐
   <a href="https://vishwajithlk.me">vishwajithlk.me</a>
 </p>
 
-<p align="center">
-  <a href="https://vishwajithlk.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0D9668?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
-  </a>
-</p>
+
 
 ---
 
